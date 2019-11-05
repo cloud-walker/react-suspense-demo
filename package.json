@@ -4,6 +4,8 @@
   },
   "private": true,
   "devDependencies": {
+    "@babel/core": "^7.7.0",
+    "@babel/plugin-proposal-class-properties": "^7.7.0",
     "parcel-bundler": "^1.12.4",
     "react": "^0.0.0-experimental-f6b8d31a7",
     "react-dom": "^0.0.0-experimental-f6b8d31a7"
